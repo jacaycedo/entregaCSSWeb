@@ -1,0 +1,18 @@
+input[type=text]
+{
+    width:150px;
+    margin-bottom: 10px;
+    background-color: greenyellow;
+}
+label[for=visitante]
+{
+    color:orangered;
+    font-weight: bolder;
+    size:large;
+}
+input[type=button]
+{
+    border-width: thin;
+    border-radius: 4px;
+    background-color:white;
+}
