@@ -11,7 +11,7 @@ h2
     color:orange;
 }
 
-p:first-of-type
+p#primero
 {
     color:black;
     font-weight: normal;
